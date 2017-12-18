@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-https://rustaceans.org/retep998
+I write software in Rust.
+
+## Contact
+
+[](https://rustaceans.org/retep998)
